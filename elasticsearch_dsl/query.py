@@ -514,3 +514,7 @@ class ParentId(Query):
 
 class Wrapper(Query):
     name = "wrapper"
+
+
+class Knn(Query):
+    name = "knn"
